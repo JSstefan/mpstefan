@@ -1,0 +1,1 @@
+alert("Napomena sajt je još u izradi tako da neke stvari ne rade:D")
